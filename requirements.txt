@@ -1,0 +1,2 @@
+# Requirements for running main.py
+# Only standard library is used, but for completeness:
